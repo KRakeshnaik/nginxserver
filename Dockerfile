@@ -1,1 +1,2 @@
-{\rtf1}
+FROM nginx
+ADD . /usr/share/nginx/html

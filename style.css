@@ -16,8 +16,8 @@ section {
   position: relative;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 900px;
-          perspective: 900px;
+  -webkit-perspective: 100px;
+          perspective: 100px;
   -webkit-animation: animatebg 10s ease-in-out infinite;
           animation: animatebg 10s ease-in-out infinite;
 }
